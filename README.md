@@ -19,7 +19,7 @@ In this project, we build a **machine learning model** that analyzes health data
 Imagine you studied thousands of math quizzes with the answers already filled in. Eventually, you’d start noticing patterns and could predict answers to new questions.  
 That’s essentially what machine learning does: it **learns from past data** to make predictions about new cases.
 
-We use two beginner-friendly models in this project:
+I used two beginner-friendly models in this project:
 
 | Model                  | What's the idea?                                                                 |
 |------------------------|-----------------------------------------------------------------------------------|
