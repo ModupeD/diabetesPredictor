@@ -87,18 +87,8 @@ We use the open-source **Pima Indians Diabetes Dataset** (768 people, 8 health m
 
 ---
 
-## 💡 Why Does This Matter?
-
-• Shows how data turns into insights.
-
-• Teaches basic ML steps: *clean → split → train → test → evaluate*.
-
-• Lets you experiment—try changing the test size, try different *k* values, or add your own health data for fun.
-
----
 
 ## 📝 Disclaimer
 
-This is **education-only**. It's not medical advice and definitely not a replacement for professional diagnosis.
+This is **an educational project**. It's not medical advice and definitely not a replacement for professional diagnosis.
 
-Enjoy exploring ML! 🚀 
